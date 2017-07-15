@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  GHNavViewController.h
 //  测试导航条左侧item响应
 //
 //  Created by eiboran-imac5k on 2017/7/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface GHNavViewController : UINavigationController
 
 @end
-
